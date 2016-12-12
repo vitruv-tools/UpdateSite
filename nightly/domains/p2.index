@@ -2,7 +2,7 @@
 # Please note that the values in this file denotes repository factories and
 # not files. The factory '<name>.xml' will look for both the <name>.jar
 # and the <name>.xml file, in that order
-#Sun Dec 11 22:27:49 UTC 2016
+#Mon Dec 12 15:20:53 UTC 2016
 version=1
 metadata.repository.factory.order=content.xml,\!
 artifact.repository.factory.order=compositeArtifacts.xml,\!
